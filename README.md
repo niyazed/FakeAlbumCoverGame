@@ -1,3 +1,3 @@
 # FakeAlbumCoverGame
 
-`Peer Assignment task solution of Python For Data Science course`
+`Peer Assignment solution of Python For Data Science on coursera`
